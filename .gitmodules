@@ -1,0 +1,3 @@
+[submodule "thirtybees"]
+	path = thirtybees
+	url = https://github.com/thirtybees/thirtybees
